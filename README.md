@@ -30,8 +30,8 @@ Price: The price of the used car in INR Lakhs.
 ## Work done
 
 1)Data Cleaning: 
-Removing Null Values
-Scaling
+Removing Null Values,
+Scaling,
 Removing Outliers
 
 2)Exploratory Data Analysis (EDA) and Data Visualization.
@@ -40,16 +40,16 @@ Removing Outliers
 3)Cross Validation using train_test_split.
 
 
-4)Performing machine learning models: Random Forest, Linear Regression, XGBoost etc.
+4)Performing machine learning models.
 
 
 5)Comparison of the performance of  various regression models.
 -> Models used:
-Linear Regression
-Random Forest regressor
-Xgb
-Lasso
-Gbr
+Linear Regression,
+Random Forest regressor,
+Xgb,
+Lasso,
+Gbr,
 KnnRegressor
 
 
