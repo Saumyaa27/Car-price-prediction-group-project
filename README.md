@@ -29,10 +29,24 @@ Price: The price of the used car in INR Lakhs.
 
 ## Work done
 
-1)Exploratory Data Analysis (EDA)
+1)Data Cleaning: 
+Removing Null Values
+Scaling
+Removing Outliers
 
-2)Performing machine learning models: Random Forest, Linear Regression, XGBoost etc.
+2)Exploratory Data Analysis (EDA) and Data Visualization
 
-3)Comparison of the performance of the models
+3) Cross Validation using train_test_split
 
-4)Reporting the findings of the study in a professional manner
+4)Performing machine learning models: Random Forest, Linear Regression, XGBoost etc.
+
+5)Comparison of the performance of  various regression models.
+-> Models used:
+Linear Regression
+Random Forest regressor
+Xgb
+Lasso
+Gbr
+Knn
+
+6)Final prediction of price using xgb model
