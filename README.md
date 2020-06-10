@@ -34,11 +34,14 @@ Removing Null Values
 Scaling
 Removing Outliers
 
-2)Exploratory Data Analysis (EDA) and Data Visualization
+2)Exploratory Data Analysis (EDA) and Data Visualization.
 
-3) Cross Validation using train_test_split
+
+3)Cross Validation using train_test_split.
+
 
 4)Performing machine learning models: Random Forest, Linear Regression, XGBoost etc.
+
 
 5)Comparison of the performance of  various regression models.
 -> Models used:
@@ -47,6 +50,7 @@ Random Forest regressor
 Xgb
 Lasso
 Gbr
-Knn
+KnnRegressor
+
 
 6)Final prediction of price using xgb model
