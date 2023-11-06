@@ -37,7 +37,7 @@ Removing Outliers
 2)Exploratory Data Analysis (EDA) and Data Visualization.
 
 
-3)One-Hot Encoding
+3)One-Hot Encoding.
 
 
 4)Cross Validation using train_test_split.
@@ -46,8 +46,8 @@ Removing Outliers
 5)Performing machine learning models.
 
 
-6)Comparison of the performance of  various regression models.
--> Models used:
+6)Comparison of the performance of various regression models.
+Models used:
 Linear Regression,
 Random Forest regressor,
 Xgb,
@@ -56,4 +56,4 @@ Gbr,
 KnnRegressor
 
 
-7)Final prediction of price using xgb model
+7)Final prediction of price using xgb model.
