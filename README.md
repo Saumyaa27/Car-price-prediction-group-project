@@ -46,7 +46,7 @@ Removing Outliers
 5)Performing machine learning models.
 
 
-6)Comparison of the performance of  various regression models.
+6)Comparison of the performance of various regression models.
 -> Models used:
 Linear Regression,
 Random Forest regressor,
